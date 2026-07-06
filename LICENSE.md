@@ -1,4 +1,4 @@
-
+automatic Astrill VPN Addon | IP-masking + OpenVPN-support is the best Astrill VPN addon, featuring IP-masking and OpenVPN-support. Secure, fast, and optimized for privacy.
 
 
 
